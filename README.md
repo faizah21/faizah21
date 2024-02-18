@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Faizah and I'm an aspiring Frontend Developer
 
-<!--
-**faizah21/faizah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about frontend development and began learning programming languages in my free time. Now, I am a student in the software engineering program at the TripleTen Bootcamp. So far, I have learned languages such as HTML, CSS, Javascript, ReactJs, and I have worked with Git, GitHub, VSCode, and Figma. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my project, Around the US
+- 🌱 I’m learning more about Javascript 
+- 👯 I’m looking to collaborate on frontend projects 
+- 🤔 I’m looking for help with advancing my career 
+- 💬 Ask me about HTML, CSS, Javascript, ReactJs
+- 📫 How to reach me: on social networks such as LinkedIn
+- ⚡ Fun fact: I love to cook and bake, which is why many of my projects center around food! 
+
+
